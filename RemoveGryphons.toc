@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: RemoveGryphons
+## Author: tyBz-
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+RemoveGryphons.lua
